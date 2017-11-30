@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="schoolmanagement-entity_main" target="1.8" />
+      <module name="schoolmanagement-entity_test" target="1.8" />
+      <module name="schoolmanagement-sms_main" target="1.8" />
+      <module name="schoolmanagement-sms_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

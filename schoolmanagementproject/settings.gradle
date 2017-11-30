@@ -1,0 +1,4 @@
+rootProject.name = 'school-management'
+
+include 'schoolmanagement-entity'
+include 'schoolmanagement-sms'

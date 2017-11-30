@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/school-management.iml" filepath="$PROJECT_DIR$/.idea/modules/school-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity.iml" group="schoolmanagement-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity_main.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity_main.iml" group="schoolmanagement-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity_test.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-entity/schoolmanagement-entity_test.iml" group="schoolmanagement-entity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms.iml" group="schoolmanagement-sms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms_main.iml" group="schoolmanagement-sms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/schoolmanagement-sms/schoolmanagement-sms_test.iml" group="schoolmanagement-sms" />
+    </modules>
+  </component>
+</project>
